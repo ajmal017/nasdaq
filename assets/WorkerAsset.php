@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Мария
- * Date: 23.02.2019
- * Time: 17:56
- */
 
 namespace app\assets;
 

@@ -1,6 +1,7 @@
 ### Install
 ```
-git clone
+git clone https://github.com/sergey144010/nasdaq
+cd nasdaq
 composer install
 ```
 ### Run
